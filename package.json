@@ -1,0 +1,11 @@
+{
+  "name": "factorygate",
+  "version": "1.0.0",
+  "description": "Autonomous structural policy guardrails verifying safe agent state transitions before target branch ingestion.",
+  "main": "src/guardrail.js",
+  "scripts": {
+    "test": "node src/guardrail.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
