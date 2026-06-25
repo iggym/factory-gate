@@ -45,7 +45,7 @@ In an ecosystem where **Autonomous AI Agents** pull, refactor, and commit code d
 
 To audit the runtime behavior of the policy compiler, test explicit verification failures and structural mutations within our sandboxed ecosystem.
 
-👉 **[Launch the FactoryGate Simulation Interface](https://www.google.com/search?q=https://%3Cyour-username%3E.github.io/%3Cyour-repo-name%3E/)**
+👉 **[Launch the FactoryGate Simulation Interface](https://iggym.github.io/factory-gate/)**
 
 ---
 
